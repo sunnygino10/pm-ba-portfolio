@@ -1,4 +1,4 @@
-# Work Samples
+# TikTok AI Data Eco-Operations Internship Work Samples
 
 This repository contains selected academic and internship deliverables demonstrating end-to-end project management, data analysis, and process-optimization skills.
 
@@ -25,6 +25,6 @@ Click any of the file links above to view the PDF in your browser. If you prefer
 
 ## About Me
 
-- **Name:** [Gino Sunny]  
+- **Name:** Gino Sunny  
 - **Degree:** Master of Information Systems Management, Macquarie University (Expected July 2025)  
 ---
