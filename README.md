@@ -6,7 +6,7 @@ This repository contains selected academic and internship deliverables demonstra
 
 | File                                                     | Description                                                                                              |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [COMP8770_Assignment1_AlpineF1_ProjectPlan.pdf](URL1)    | **Individual**: High-level MS Project plan & risk assessment for Alpine F1’s Melbourne 2025 GP prep.    |
+| [COMP8770_Assignment1_AlpineF1_ProjectPlan.pdf](Strategic Digital Transformation Project Report.pdf)    | **Individual**: High-level MS Project plan & risk assessment for Alpine F1’s Melbourne 2025 GP prep.    |
 | [COMP8770_Assignment2_AutonomousCar_BusinessPlan.pdf](URL2) | **Group**: Spiral-Agile hybrid business plan & risk register for a Level 4 autonomous vehicle program.   |
 | [COMP8790_Assignment1_Qantas_DigitalTransformation.pdf](URL3) | **Individual**: SWOT, cost–benefit & risk analysis for Qantas digital initiatives, with WBS and Gantt.   |
 | [COMP8790_Assignment2_McLarenF1_StrategicPlan.pdf](URL4) | **Group**: PRINCE2/Agile roadmap for McLaren F1’s 2026 regulation changes, complete with governance.     |
