@@ -16,15 +16,13 @@ This repository contains selected academic and internship deliverables demonstra
 
 ## How to View
 
-Click any of the file links above to view the PDF in your browser. If you prefer to download:
-
-1. Visit the raw URL (e.g. `https://raw.githubusercontent.com/<username>/<repo>/main/COMP8770_Assignment1_AlpineF1_ProjectPlan.pdf`)  
-2. Right-click and choose “Save As…”
+Click any of the file links above to view the PDF in your browser.
 
 ---
 
 ## About Me
 
 - **Name:** Gino Sunny  
-- **Degree:** Master of Information Systems Management, Macquarie University (Expected July 2025)  
+- **Degree:** Master of Information Systems Management, Macquarie University (Expected July 2025)
+- Master’s candidate in Information Systems Management with 6+ years of experience in aviation technology, driving business analysis, incident management, and cross-functional coordination for global airline platforms. Skilled at translating customer and crew feedback into technical requirements, optimizing e-commerce and crew management workflows to enhance passenger experience and operational resilience. Proven ability to develop data-driven dashboards, manage stakeholder communications, and deliver enterprise solutions on time and within SLAs.
 ---
