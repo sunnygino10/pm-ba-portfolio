@@ -16,7 +16,7 @@ This repository contains selected academic and internship deliverables demonstra
 
 ## How to View
 
-Click any of the file links above to view the PDF in your browser.
+Click any of the file links above to view.
 
 ---
 
