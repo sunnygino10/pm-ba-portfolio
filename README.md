@@ -1,6 +1,6 @@
 # Project Management & Business Analysis Portfolio - Academic & Internship Work Samples
 
-This repository contains selected academic and internship deliverables demonstrating end-to-end project management, data analysis, and process-optimization skills.
+This repository contains selected academic and internship deliverables demonstrating end-to-end project management and business analysis skills.
 
 ## 📂 Repository Contents
 
