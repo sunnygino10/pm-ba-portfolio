@@ -25,5 +25,5 @@ Click any of the file links above to view.
 
 - **Name:** Gino Sunny  
 - **Degree:** Master of Information Systems Management, Macquarie University (July 2025)
-- Technology professional with 6+ years in airline IT, spanning development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce, with a strong track record at Amadeus and IBS Software. Currently completing a Master’s in Information Systems Management, focused on digital strategy and technical leadership.
+- Technology professional with 6+ years in airline IT, spanning development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce, with a strong track record at Amadeus and IBS Software. Currently, completed a Master’s in Information Systems Management, focused on digital strategy and technical leadership.
 ---
