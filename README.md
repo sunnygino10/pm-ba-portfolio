@@ -22,6 +22,7 @@ This repository showcases a curated selection of academic projects, internship d
 | -------- | ----------- |
 | [Experience Letter – Amadeus](https://github.com/sunnygino10/pm-ba-portfolio/blob/9687279a7789309b2b92e56afd9ce3da96842fe6/Experience%20Letter%20-%20Amadeus.pdf) | Letter confirming tenure held as a Product Definition Analyst - 2 in Amadeus. |
 | [Experience Letter – IBS Software](https://github.com/sunnygino10/pm-ba-portfolio/blob/9687279a7789309b2b92e56afd9ce3da96842fe6/Experience%20letter%20-%20IBS.pdf) | Letter confirming tenure held as a Senior Software Engineer in IBS Software. |
+| [Master of Information Systems Management - Course Completion Certificate](https://github.com/sunnygino10/pm-ba-portfolio/blob/9687279a7789309b2b92e56afd9ce3da96842fe6/Experience%20letter%20-%20IBS.pdf) | Letter confirming tenure held as a Senior Software Engineer in IBS Software. |
 | [Academic Award – Macquarie University](https://github.com/sunnygino10/pm-ba-portfolio/blob/c987e5225fbf1f2fca006ecec2ef5625555c9f5a/Highest%20Achiever%20-%20COMP6750%20S1%2024.jpg) | Recognition for Highest Achievement in a Unit of Study. |
 | [Employment Award – Team Champ at IBS Software](https://github.com/sunnygino10/pm-ba-portfolio/blob/c1d7642d427891fdd0cb2e285360feb29ed9af79/Team%20Champ%20Award.pdf) | Recognition for outstanding performance and service delivered beyond the call of duty.|
 ---
