@@ -1,6 +1,6 @@
 # Project Management & Business Analysis Portfolio - Academic, Internship & Professional Work
 
-This repository showcases a curated selection of academic projects, internship deliverables, professional experience letters, and university awards. Together, they demonstrate my capabilities in end-to-end project management, business analysis, and technical leadership across academic, professional, and real-world contexts.
+This repository showcases a curated selection of academic projects, internship deliverables, professional experience letters, and university awards. Together, they demonstrate my capabilities in end-to-end project management, business analysis, and technical & strategic leadership across academic, professional, and real-world contexts.
 
 ## 📂 Repository Contents
 
