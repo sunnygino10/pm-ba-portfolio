@@ -36,5 +36,5 @@ Click any of the file links above to view.
 ## 👤 About Me
 
 - **Name:** Gino Sunny  
-- **Degree:** Master of Information Systems Management, Macquarie University, WAM: 83.00 (Distinction Average)
+- **Degree:** Master of Information Systems Management, Macquarie University, WAM: 85.00 (Distinction Average)
 - Technology professional with 6+ years in airline IT, spanning development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce, with a strong track record at Amadeus and IBS Software. Currently, completed a Master’s in Information Systems Management, focused on digital strategy and technical leadership.
