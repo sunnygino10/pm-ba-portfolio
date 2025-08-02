@@ -133,4 +133,4 @@ These documents verify my professional roles and recognise academic and professi
 - **Degree:** Master of Information Systems Management, Macquarie University (High Distinction, WAM 85.0)  
 - **Profile:** Technology professional with 6+ years in airline IT, spanning development, business analysis and product support. Experienced in enterprise systems, airline operations and e‑commerce with a strong track record at Amadeus and IBS Software. Passionate about digital strategy, data‑driven decision making and technical leadership.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your‑profile](https://www.linkedin.com/in/gino-sunny/) or explore the linked artifacts above.
+Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/in/gino-sunny/)] or explore the linked artifacts above.
