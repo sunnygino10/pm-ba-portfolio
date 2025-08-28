@@ -255,9 +255,8 @@ These documents verify my professional roles and recognise academic/professional
       
 **Name:** Gino Sunny  
 **Degree:** Master of Information Systems Management, Macquarie University (High Distinction, WAM 85.0)  
-**Profile:** Technology professional with 6+ years in airline IT across development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce with a strong track record at Amadeus and IBS Software. Passionate about digital strategy, data-driven decision-making, and technical leadership.  
+**Profile:** Business Analyst & Project Manager with 6+ years in complex, high-availability systems and a Master of Information Systems Management (High Distinction). Translates strategy into governed delivery—clear requirements (BPMN, user stories), dependable plans (WBS, Gantt, critical path, RAID), and measurable value through integration and automation (APIs/ESB, RPA) and data/SQL. Known for stakeholder alignment, risk control, and producing outcomes that protect timelines, budgets, and customer experience.  
 **Connect:** <a href="https://www.linkedin.com/in/gino-sunny/">LinkedIn</a>
-
     </td>
   </tr>
 </table>
