@@ -50,9 +50,9 @@ to read a short description and access the associated PDF.
     - **Assignment 1:** Built ER models & schemas for a parking management system.  
     - **Assignment 2:** Normalised tables to BCNF and implemented SQL DDL/DML with analytical queries.  
     - **Assignment 3:** Created stored functions, triggers, and procedures with end-to-end test plans.  
-    ➡️ <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/assignment1Gino47814403.pdf">View Assignment 1</a> •  
-    <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403A2DBSYSTEMS.pdf">View Assignment 2</a> •  
-    <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403Assignment3Report.pdf">View Assignment 3</a>  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Normalisation%20%26%20SQL.pdf">View Parking Management System – Data Modelling</a> •  
+    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Data%20Modelling.pdf">View Parking Management System – Normalisation & SQL</a> •  
+    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Library%20Management%20System%20%E2%80%93%20Procedural%20SQL%20Programming.pdf">View Library Management System – Procedural SQL Programming </a>  
   </p>
 </details>
 
