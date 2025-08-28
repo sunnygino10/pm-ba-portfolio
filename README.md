@@ -245,9 +245,19 @@ These documents verify my professional roles and recognise academic/professional
 ---
 
 ## 👤 About Me
-- **Name:** Gino Sunny  
-- **Degree:** Master of Information Systems Management, Macquarie University (High Distinction, WAM 85.0)  
-- **Profile:** Technology professional with 6+ years in airline IT across development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce with a strong track record at Amadeus and IBS Software. Passionate about digital strategy, data-driven decision-making, and technical leadership.
-- **Connect:** <a href="https://www.linkedin.com/in/gino-sunny/">LinkedIn</a>
 
-<p align="right"><a href="#readme-top">⬆️ Back to top</a></p>
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="./assets/gino-sunny.jpg" alt="Gino Sunny headshot" width="140" height="140" style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td valign="top">
+      
+**Name:** Gino Sunny  
+**Degree:** Master of Information Systems Management, Macquarie University (High Distinction, WAM 85.0)  
+**Profile:** Technology professional with 6+ years in airline IT across development, business analysis, and product support. Experienced in enterprise systems, airline operations, and e-commerce with a strong track record at Amadeus and IBS Software. Passionate about digital strategy, data-driven decision-making, and technical leadership.  
+**Connect:** <a href="https://www.linkedin.com/in/gino-sunny/">LinkedIn</a>
+
+    </td>
+  </tr>
+</table>
