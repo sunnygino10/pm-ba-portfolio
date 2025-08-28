@@ -122,6 +122,21 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>📄 AI-Driven IT Opportunities for Sony Corporation</strong></summary>
+  <p>
+    **Type:** Group • **Focus:** Strategic IT analysis, AI initiatives, and business case development.  
+    - Analyzed **Sony’s IT usage** across entertainment, imaging, and robotics, plus SWOT & strategic positioning.  
+    - Proposed **four AI projects**:  
+      - 🎥 AI-Enhanced Film Production → 25% cost savings, 45% ROI.  
+      - 📷 Real-Time AI Image Processing in Cameras → 30–50% post-production cost savings, 40% ROI.  
+      - ♻️ AI-Powered PlayStation Disassembly → raw material recovery, 20% ROI.  
+      - 📱 AI Smartphone Companion → +15–25% sales, 80% ROI.  
+    - Designed **business cases, ROI models, and project lifecycle plans** for each initiative.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/081324352230dc54b4ae9160510fdabef1b0086c/AI-Driven%20IT%20Opportunities%20for%20Sony%20Corporation.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 Strategic Project Management Report – McLaren F1</strong></summary>
   <p>
     **Type:** Group • **Focus:** PRINCE2/Agile roadmap for McLaren F1’s 2026 regulation changes, complete with governance.  
