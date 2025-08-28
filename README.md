@@ -32,7 +32,7 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
-  <summary><strong>🤖 BPM & Robotic Process Automation – Study Abroad Application</strong></summary>
+  <summary><strong>📄 BPM & Robotic Process Automation – Study Abroad Application</strong></summary>
   <p>
     **Type:** Individual • **Focus:** Business Process Management & automation of Macquarie University’s study abroad application system.  
     - Designed **As-Is vs To-Be** process models to identify inefficiencies.  
@@ -40,6 +40,19 @@ to read a short description and access the associated PDF.
     - Conducted **cost-benefit analysis** showing ~51% reduction in process costs.  
     - Used **RACI matrix** for role clarity and simulated improved workflows.  
     ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/449f9a1764d1959ac2e5ef46a1fbc9fc747808c2/BPM%20%26%20Robotic%20Process%20Automation%20%E2%80%93%20Study%20Abroad%20Application.pdf">View PDF</a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>📄 Database Systems – Parking & Library Management</strong></summary>
+  <p>
+    **Type:** Individual • **Focus:** Database modelling, SQL programming & procedural logic.  
+    - **Assignment 1:** Built ER models & schemas for a parking management system.  
+    - **Assignment 2:** Normalised tables to BCNF and implemented SQL DDL/DML with analytical queries.  
+    - **Assignment 3:** Created stored functions, triggers, and procedures with end-to-end test plans.  
+    ➡️ <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/assignment1Gino47814403.pdf">View Assignment 1</a> •  
+    <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403A2DBSYSTEMS.pdf">View Assignment 2</a> •  
+    <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403Assignment3Report.pdf">View Assignment 3</a>  
   </p>
 </details>
 
