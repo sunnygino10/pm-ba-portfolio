@@ -249,7 +249,7 @@ These documents verify my professional roles and recognise academic/professional
 <table>
   <tr>
     <td width="160" valign="top">
-      <img src="./assets/gino-sunny.jpg" alt="Gino Sunny headshot" width="140" height="140" style="border-radius:50%; object-fit:cover;">
+      <img src="https://github.com/sunnygino10/pm-ba-portfolio/blob/71f1aa67b4ab77ca224f6153749fccd255098d08/1756383024943.jpg" alt="Gino Sunny headshot" width="140" height="140" style="border-radius:50%; object-fit:cover;">
     </td>
     <td valign="top">
       
