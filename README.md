@@ -44,6 +44,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>📦 Enterprise Integration Reengineering – Deufol SE</strong></summary>
+  <p>
+    **Type:** Group • **Focus:** Enterprise Service Bus (ESB) integration and process reengineering.  
+    - Modeled **As-Is vs To-Be processes** for Deufol SE, a global packaging logistics firm.  
+    - Implemented **AdroitLogic UltraESB** for integration with internal subsidiaries and SAP-based external clients.  
+    - Achieved **160% ROI within 2 years**, 35% integration cost reduction, and improved customer satisfaction.  
+    - Used **Trello** for agile task management, progress tracking, and role-based responsibility assignment.  
+    ➡️ <a href="">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>🩺 AI-Enhanced Healthcare Process Integration – AWCare</strong></summary>
   <p>
     **Type:** Individual • **Focus:** Enterprise application integration with AI in healthcare.  
