@@ -138,6 +138,20 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>📄 POGS Online Shopping App – Mobile Dev & Database Design</strong></summary>
+  <p>
+    **Type:** Group & Individual • **Focus:** Mobile application development, testing, ethics, and database design.  
+    - Built and demoed a **mobile shopping app** (POGS) with dropdowns, pricing logic, and error handling.  
+    - Compared **native vs. cross-platform development** for client communication and trade-off analysis.  
+    - Applied **ACS Code of Ethics** to an attribution dilemma, outlining resolution pathways.  
+    - Designed **test cases** (valid/invalid input handling) and documented results.  
+    - Created **database schema** for Customer, Orders, Produce, Supplier, and Supplies with constraints.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/73f458014ffeb41995703459b6f6dddabf2b778e/POGS%20Online%20Shopping%20App%20%E2%80%93%20Mobile%20Development.pdf">View PDF</a>  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/73f458014ffeb41995703459b6f6dddabf2b778e/POGS%20Online%20Shopping%20App%20%E2%80%93%20Mobile%20Development%20%26%20Database%20Design.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 Final Internship Report – Business Analyst Intern</strong></summary>
   <p>
     **Type:** Internship • **Focus:** End‑to‑end business analysis, process flows and deployment guidelines for an airline loyalty management system’s invoicing module.  
