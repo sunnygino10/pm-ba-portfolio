@@ -195,15 +195,6 @@ project delivery, business analysis and technical leadership.
   </p>
 </details>
 
-<details>
-  <summary><strong>📄 Strategic Social Media ROI Report – Emirates Airlines</strong></summary>
-  <p>
-    Audit of “Be There” campaign; SMART objectives; audience segmentation; channel performance comparison.<br/>
-    ➡️ <a href="https://github.com/sunnygino10/Masters-Projects/blob/e572e7c34d1df98c63060a90f39f93972a0f93fc/Strategic%20Social%20Media%20ROI%20Report%20for%20Emirates%20Airlines.pdf">View PDF</a>
-  </p>
-</details>
-
-
 ## 🏆 Experience Letters & Awards
 
 These documents verify my professional roles and recognise academic and professional excellence. Expand each card for details.
