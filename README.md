@@ -152,6 +152,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🏅 Olympic Volunteer Management IS Solutions – LA28</strong></summary>
+  <p>
+    **Type:** Group • **Focus:** Information Systems design, project management, and business planning.  
+    - Proposed **AI-driven recruitment**, **gamification**, and **social media analytics** for volunteer acquisition.  
+    - Designed **training systems** with mobile apps, VR/AR immersive modules, and AI-driven learning paths.  
+    - Produced **WBS, Gantt charts, milestones, and costings (~$2.8M)** across a 38-month timeline.  
+    - Addressed risks (bias, accessibility, data privacy) with mitigation strategies and compliance frameworks.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/23e9ea013cb00cc0f30ab22bc0efcb4e865e329c/Olympic%20Volunteer%20Management%20Information%20System%20Solutions.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 Final Internship Report – Business Analyst Intern</strong></summary>
   <p>
     **Type:** Internship • **Focus:** End‑to‑end business analysis, process flows and deployment guidelines for an airline loyalty management system’s invoicing module.  
