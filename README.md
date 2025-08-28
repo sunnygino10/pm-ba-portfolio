@@ -81,6 +81,19 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🚛 GIS-Enabled Waste Management System – MQ Garbage Collection</strong></summary>
+  <p>
+    **Type:** Group • **Focus:** Project planning, GIS integration, and risk management.  
+    - Analyzed current inefficiencies (manual routing, communication gaps, rising costs, customer complaints).  
+    - Designed **To-Be system** with GIS mapping, digital comms (Slack, email alerts), automated task/financial management.  
+    - Defined benefits: **20% less distance traveled**, **30% faster response to complaints**, **15% cost reduction**.  
+    - Conducted **quantitative risk analysis** (fuel escalation, vehicle breakdowns, compliance, cybersecurity) and created mitigation strategies.  
+    - Applied **project management disciplines**: HRM, communication plans, risk monitoring, continuous improvement.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/59e3685c5f25bad92e6c46ae2d352c5e76da052b/GIS-Enabled%20Waste%20Management%20System%20%E2%80%93%20MQ%20Garbage%20Collection.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 IS Project Management Business Plan – Level 4 Autonomous Vehicle</strong></summary>
   <p>
     **Type:** Group • **Focus:** Spiral‑Agile hybrid business plan and risk register for a Level 4 autonomous vehicle program.  
