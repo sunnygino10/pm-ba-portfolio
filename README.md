@@ -44,6 +44,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🩺 AI-Enhanced Healthcare Process Integration – AWCare</strong></summary>
+  <p>
+    **Type:** Individual • **Focus:** Enterprise application integration with AI in healthcare.  
+    - Modeled **As-Is vs To-Be** process for AWCare’s elderly urgent care services.  
+    - Integrated AIACare’s **real-time subtitling, text-to-speech, and visual aid technologies**.  
+    - Addressed **integration issues**: real-time data exchange, scalability, security, and interoperability (HL7).  
+    - Simulated process improvements in **Signavio**, analyzing cycle time, costs, and bottlenecks.  
+    ➡️ <a href="">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 Database Systems – Parking & Library Management</strong></summary>
   <p>
     **Type:** Individual • **Focus:** Database modelling, SQL programming & procedural logic.  
