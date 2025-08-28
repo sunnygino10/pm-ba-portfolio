@@ -44,7 +44,7 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
-  <summary><strong>📦 Enterprise Integration Reengineering – Deufol SE</strong></summary>
+  <summary><strong>📄 Enterprise Integration Reengineering – Deufol SE</strong></summary>
   <p>
     **Type:** Group • **Focus:** Enterprise Service Bus (ESB) integration and process reengineering.  
     - Modeled **As-Is vs To-Be processes** for Deufol SE, a global packaging logistics firm.  
@@ -56,7 +56,7 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
-  <summary><strong>🩺 AI-Enhanced Healthcare Process Integration – AWCare</strong></summary>
+  <summary><strong>📄 AI-Enhanced Healthcare Process Integration – AWCare</strong></summary>
   <p>
     **Type:** Individual • **Focus:** Enterprise application integration with AI in healthcare.  
     - Modeled **As-Is vs To-Be** process for AWCare’s elderly urgent care services.  
