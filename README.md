@@ -51,7 +51,7 @@ to read a short description and access the associated PDF.
     - Implemented **AdroitLogic UltraESB** for integration with internal subsidiaries and SAP-based external clients.  
     - Achieved **160% ROI within 2 years**, 35% integration cost reduction, and improved customer satisfaction.  
     - Used **Trello** for agile task management, progress tracking, and role-based responsibility assignment.  
-    ➡️ <a href="">View PDF</a>  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/b756ea3bbb863e8dd394eeafaa1785d5251a0ab6/Enterprise%20Integration%20Reengineering%20%E2%80%93%20Deufol%20SE.pdf">View PDF</a>  
   </p>
 </details>
 
