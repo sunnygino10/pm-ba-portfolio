@@ -130,6 +130,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🌐 Strategic IoT Implementation – GE & Origin Energy</strong></summary>
+  <p>
+    **Type:** Individual • **Focus:** IoT technology strategy, business case, and financial analysis.  
+    - Explored IoT’s **evolution, applications, and future outlook** across industries.  
+    - Analyzed **GE’s IoT adoption (Predix platform)** for predictive maintenance, cost savings, and new business models.  
+    - Proposed an **IoT deployment strategy for Origin Energy** to optimize renewables and LNG operations.  
+    - Conducted **financial modelling**: ~$548k cost, ROI of 164% in 3 years, $900k savings in 5 years.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/02850fd03056d0f25ed85448f6479d3a729f8962/Strategic%20IoT%20Implementation%20for%20Energy%20%26%20Industry%20%E2%80%93%20Origin%20Energy%20%26%20GE.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 Applications Modelling – Requirements & Use Case Analysis</strong></summary>
   <p>
     **Type:** Individual • **Focus:** Requirements elicitation, functional & non‑functional requirements, epic/user stories and use case modelling for a proposed POG system.  
