@@ -39,7 +39,7 @@ to read a short description and access the associated PDF.
     - Applied **Robotic Process Automation (Blue Prism)** to automate eligibility checks & student endorsements.  
     - Conducted **cost-benefit analysis** showing ~51% reduction in process costs.  
     - Used **RACI matrix** for role clarity and simulated improved workflows.  
-    ➡️ <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403_GinoSunnyAssignment2.pdf">View PDF</a>
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/449f9a1764d1959ac2e5ef46a1fbc9fc747808c2/BPM%20%26%20Robotic%20Process%20Automation%20%E2%80%93%20Study%20Abroad%20Application.pdf">View PDF</a>
   </p>
 </details>
 
