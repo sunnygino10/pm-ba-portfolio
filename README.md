@@ -63,7 +63,7 @@ to read a short description and access the associated PDF.
     - Integrated AIACare’s **real-time subtitling, text-to-speech, and visual aid technologies**.  
     - Addressed **integration issues**: real-time data exchange, scalability, security, and interoperability (HL7).  
     - Simulated process improvements in **Signavio**, analyzing cycle time, costs, and bottlenecks.  
-    ➡️ <a href="">View PDF</a>  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/fb0411abd6cd5c034e0183b5f19b0263966d931f/AI-Enhanced_Healthcare_Process_Integration_AWCare.pdf">View PDF</a>  
   </p>
 </details>
 
@@ -74,9 +74,9 @@ to read a short description and access the associated PDF.
     - **Assignment 1:** Built ER models & schemas for a parking management system.  
     - **Assignment 2:** Normalised tables to BCNF and implemented SQL DDL/DML with analytical queries.  
     - **Assignment 3:** Created stored functions, triggers, and procedures with end-to-end test plans.  
-    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Normalisation%20%26%20SQL.pdf">View Parking Management System – Normalisation & SQL</a> •  
-    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Data%20Modelling.pdf">View Parking Management System – Data Modelling</a> •  
-    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Library%20Management%20System%20%E2%80%93%20Procedural%20SQL%20Programming.pdf">View Library Management System – Procedural SQL Programming </a>  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Normalisation%20%26%20SQL.pdf">View PDF</a> •  
+    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Parking%20Management%20System%20%E2%80%93%20Data%20Modelling.pdf">View PPDF</a> •  
+    <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/c4f8294a0897797e9328c931110a715982931178/Library%20Management%20System%20%E2%80%93%20Procedural%20SQL%20Programming.pdf">View PDF</a>  
   </p>
 </details>
 
