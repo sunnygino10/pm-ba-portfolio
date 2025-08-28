@@ -32,6 +32,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🤖 BPM & Robotic Process Automation – Study Abroad Application</strong></summary>
+  <p>
+    **Type:** Individual • **Focus:** Business Process Management & automation of Macquarie University’s study abroad application system.  
+    - Designed **As-Is vs To-Be** process models to identify inefficiencies.  
+    - Applied **Robotic Process Automation (Blue Prism)** to automate eligibility checks & student endorsements.  
+    - Conducted **cost-benefit analysis** showing ~51% reduction in process costs.  
+    - Used **RACI matrix** for role clarity and simulated improved workflows.  
+    ➡️ <a href="https://github.com/sunnygino10/Masters-Projects/blob/main/47814403_GinoSunnyAssignment2.pdf">View PDF</a>
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 IS Project Management Business Plan – Level 4 Autonomous Vehicle</strong></summary>
   <p>
     **Type:** Group • **Focus:** Spiral‑Agile hybrid business plan and risk register for a Level 4 autonomous vehicle program.  
