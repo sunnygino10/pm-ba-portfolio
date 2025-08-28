@@ -94,6 +94,18 @@ to read a short description and access the associated PDF.
 </details>
 
 <details>
+  <summary><strong>🌐 Digital Transformation Project Planning – Macquarie University</strong></summary>
+  <p>
+    **Type:** Individual • **Focus:** Project management, MS Project scheduling, and digital transformation planning.  
+    - Planned **ERP & systems architecture implementation** for MQ’s SDG digital sustainability program.  
+    - Built **WBS, Gantt charts, and network diagrams** in MS Project for a $400k, 2-month project.  
+    - Performed **critical path analysis** (~23.6 days) and resource balancing (10 hr/week staff allocation).  
+    - Designed **costing approach** including wages (per HEW level), hardware/software, Azure Cloud, Git Enterprise, and outsourced IT support.  
+    ➡️ <a href="https://github.com/sunnygino10/pm-ba-portfolio/blob/5ff70f91875dc56b23c2414df2b92457b46585f8/Digital%20Transformation%20Project%20Planning%20%E2%80%93%20Macquarie%20University.pdf">View PDF</a>  
+  </p>
+</details>
+
+<details>
   <summary><strong>📄 IS Project Management Business Plan – Level 4 Autonomous Vehicle</strong></summary>
   <p>
     **Type:** Group • **Focus:** Spiral‑Agile hybrid business plan and risk register for a Level 4 autonomous vehicle program.  
